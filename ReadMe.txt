@@ -1,3 +1,5 @@
+## Spam Detection
+
 This project involves developing a spam detector that predicts whether an email is spam based on a specific dataset. To achieve this, 
 I utilized a Random Forest Classifier along with several key steps in the data processing pipeline.
 The process includes data preprocessing to clean and prepare the email data for analysis, followed by vectorization to convert the
